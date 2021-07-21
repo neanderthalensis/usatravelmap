@@ -1,0 +1,13 @@
+name: usatravelmap
+title: usatravelmap
+username:
+account: adamtyrlik
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4408642
+bundleId: 4843491
+url: https://adamtyrlik.shinyapps.io/usatravelmap/
+when: 1626908668.98373
+lastSyncTime: 1626908668.98373
+asMultiple: FALSE
+asStatic: FALSE
